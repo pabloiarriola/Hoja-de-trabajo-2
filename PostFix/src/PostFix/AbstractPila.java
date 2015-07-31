@@ -24,6 +24,7 @@ public abstract class AbstractPila<E> implements Pila<E>{
     /**
      * almacena datos temporales
      */
+    
     private int s2 = 0;
 
     //------------------------------------------------------
